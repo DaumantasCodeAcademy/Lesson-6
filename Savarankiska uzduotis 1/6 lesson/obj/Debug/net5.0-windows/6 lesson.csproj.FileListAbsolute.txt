@@ -1,0 +1,17 @@
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\bin\Debug\net5.0-windows\6 lesson.exe
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\bin\Debug\net5.0-windows\6 lesson.deps.json
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\bin\Debug\net5.0-windows\6 lesson.runtimeconfig.json
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\bin\Debug\net5.0-windows\6 lesson.runtimeconfig.dev.json
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\bin\Debug\net5.0-windows\6 lesson.dll
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\bin\Debug\net5.0-windows\ref\6 lesson.dll
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\bin\Debug\net5.0-windows\6 lesson.pdb
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\obj\Debug\net5.0-windows\_6_lesson.Form1.resources
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\obj\Debug\net5.0-windows\6 lesson.csproj.GenerateResource.cache
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\obj\Debug\net5.0-windows\6 lesson.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\obj\Debug\net5.0-windows\6 lesson.AssemblyInfoInputs.cache
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\obj\Debug\net5.0-windows\6 lesson.AssemblyInfo.cs
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\obj\Debug\net5.0-windows\6 lesson.csproj.CoreCompileInputs.cache
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\obj\Debug\net5.0-windows\6 lesson.dll
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\obj\Debug\net5.0-windows\ref\6 lesson.dll
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\obj\Debug\net5.0-windows\6 lesson.pdb
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\6 lesson\obj\Debug\net5.0-windows\6 lesson.genruntimeconfig.cache
