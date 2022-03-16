@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Savarankiskas darbas 2-1", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Savarankiskas darbas 2-2", "Savarankiskas darbas 2-2\Savarankiskas darbas 2-2.csproj", "{8CAA644D-993A-4D8F-88DB-19491FF31653}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Savarankiskas darbas 2-3", "Savarankiskas darbas 2-3\Savarankiskas darbas 2-3.csproj", "{779E373B-16E0-4E42-BE80-45EFD1D5C393}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8CAA644D-993A-4D8F-88DB-19491FF31653}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CAA644D-993A-4D8F-88DB-19491FF31653}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CAA644D-993A-4D8F-88DB-19491FF31653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779E373B-16E0-4E42-BE80-45EFD1D5C393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779E373B-16E0-4E42-BE80-45EFD1D5C393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779E373B-16E0-4E42-BE80-45EFD1D5C393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779E373B-16E0-4E42-BE80-45EFD1D5C393}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
