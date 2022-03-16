@@ -1,0 +1,17 @@
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\bin\Debug\net5.0-windows\Savarankiskas darbas 2-4.exe
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\bin\Debug\net5.0-windows\Savarankiskas darbas 2-4.deps.json
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\bin\Debug\net5.0-windows\Savarankiskas darbas 2-4.runtimeconfig.json
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\bin\Debug\net5.0-windows\Savarankiskas darbas 2-4.runtimeconfig.dev.json
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\bin\Debug\net5.0-windows\Savarankiskas darbas 2-4.dll
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\bin\Debug\net5.0-windows\ref\Savarankiskas darbas 2-4.dll
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\bin\Debug\net5.0-windows\Savarankiskas darbas 2-4.pdb
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\obj\Debug\net5.0-windows\Savarankiskas_darbas_2_4.Form1.resources
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\obj\Debug\net5.0-windows\Savarankiskas darbas 2-4.csproj.GenerateResource.cache
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\obj\Debug\net5.0-windows\Savarankiskas darbas 2-4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\obj\Debug\net5.0-windows\Savarankiskas darbas 2-4.AssemblyInfoInputs.cache
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\obj\Debug\net5.0-windows\Savarankiskas darbas 2-4.AssemblyInfo.cs
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\obj\Debug\net5.0-windows\Savarankiskas darbas 2-4.csproj.CoreCompileInputs.cache
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\obj\Debug\net5.0-windows\Savarankiskas darbas 2-4.dll
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\obj\Debug\net5.0-windows\ref\Savarankiskas darbas 2-4.dll
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\obj\Debug\net5.0-windows\Savarankiskas darbas 2-4.pdb
+E:\Programming\CodeAcademy\Projektai\6 lesson\Savarankiska uzduotis 1\Savarankiskas darbas 2-4\obj\Debug\net5.0-windows\Savarankiskas darbas 2-4.genruntimeconfig.cache
