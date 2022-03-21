@@ -12,7 +12,7 @@ namespace Savarankiskas_darbas_2_4
         ///  The main entry point for the application.
         /// </summary>
         [STAThread]
-        static void Main()
+        static void Main()// komentaras
         {
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
